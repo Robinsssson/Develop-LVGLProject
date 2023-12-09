@@ -1,0 +1,6 @@
+/build
+/hardware
+/lv_drivers
+/lvgl
+/src/porting
+SDL2.dll

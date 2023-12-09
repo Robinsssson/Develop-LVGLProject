@@ -1,0 +1,33 @@
+{
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/Thumbs.db": true,
+        "lvgl_demo.code-workspace": true,
+        ".eide": true,
+        ".vscode": true,
+        ".clang-format": true,
+        ".eide.usr.ctx.json": true,
+        ".gitignore": true
+    },
+    "C_Cpp.default.configurationProvider": "cl.eide",
+    "files.associations": {
+        "gui_manage.h": "c",
+        "type_traits": "c",
+        "sdl_common_internal.h": "c",
+        "page1.h": "c",
+        "page0.h": "c",
+        "all_gui.h": "c",
+        "page_main.h": "c",
+        "mem_manage.h": "c",
+        "linklist.h": "c",
+        "page3_1.h": "c",
+        "lv_btn.h": "c",
+        "lv_conf_internal.h": "c",
+        "sqqueue.h": "c",
+        "page.h": "c"
+    }
+}
